@@ -20,3 +20,30 @@
 
 ---
 *Created by ChMiBoBo*
+
+
+
+
+---
+
+# ComfyUI Image Browser (Standalone Version) 🚀
+
+A lightweight image management tool designed specifically for ComfyUI users.
+No Python installation required, no need to start the ComfyUI Server. Just launch the `.exe` to browse images and read embedded Prompts & Workflow metadata instantly!
+
+## ✨ Key Features
+
+* **🚀 Portable**: Completely standalone `.exe` executable. Download and run without setting up any environment.
+* **📂 Folder Browsing**: Freely select image folders to quickly preview your generated works.
+* **🔍 Metadata Reader**: Click on any image to instantly view the embedded **Prompt** and **Workflow** JSON information on the sidebar.
+* **📋 One-Click Copy**: Easily copy parameters to clipboard and paste them back into ComfyUI for recreation.
+* **🖼️ Clean Interface**: A dedicated, intuitive window for efficient image organization.
+
+## 📸 Screenshots
+<img width="1502" height="932" alt="1000074917" src="https://github.com/user-attachments/assets/9c307a4a-61bc-43d8-9d69-f3c59a785d02" />
+## 📥 Download
+
+Please visit the **[Releases Page](../../releases)** to download the latest `.exe` executable.
+
+---
+*Created by ChMiBoBo*

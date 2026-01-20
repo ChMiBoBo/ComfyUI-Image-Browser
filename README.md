@@ -19,9 +19,6 @@ It allows you to browse your generated images and instantly view the embedded **
 - **UI Polishing (介面優化)**: Improved layout and spacing for better readability.
   **介面優化**：調整了版面間距與文字對比。
 
-## 📸 V2.7 軟體畫面 (Screenshots)
-![comfy_browser_v2_7_ScreenShot](https://github.com/user-attachments/assets/399afebe-87c3-4b9f-97be-cc1cc01f25f5)
-
 ## 📥 Download (下載)
 **No installation needed! Just download and run.**
 **無需安裝！下載後直接執行即可。**

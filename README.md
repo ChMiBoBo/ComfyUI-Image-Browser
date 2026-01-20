@@ -1,49 +1,56 @@
-# ComfyUI Image Browser (獨立執行版) 🚀
+# 🎨 ComfyUI Image Browser (Standalone)
 
-專為 ComfyUI 玩家設計的輕量級圖片管理工具。
-不需要安裝 Python，不需要啟動 ComfyUI Server，直接打開 `.exe` 就能瀏覽圖片並讀取內藏的 Prompt 與 Workflow！
+![v2.7 Dark Mode](https://github.com/user-attachments/assets/c78e779f-a071-496a-8bd9-a2ace2ff5cde)
 
-## ✨ 主要功能 (Features)
+> **Current Version:** v2.7 (Dark Mode Edition) ⚫
+> **Release Date:** 2026-01-20
 
-* **🚀 免安裝 (Portable)**：完全獨立的 Windows `.exe` 執行檔，下載即用，無需設定環境。
-* **📂 資料夾瀏覽**：自由選擇圖片資料夾，快速預覽生成的作品。
-* **🔍 讀取參數 (Metadata Reader)**：點擊任一圖片，右側即時顯示內含的 **Prompt (提示詞)** 與 **Workflow (工作流)** JSON 資訊。
-* **📋 一鍵複製**：方便將參數(如: Prompt 及 Workflow)複製出來，貼回 ComfyUI 復刻重繪。。
-* **🖼️ 獨立視窗**：乾淨直覺的視窗介面，瀏覽圖片、提取Prompt (提示詞)及Workflow (工作流)更有效率。
+A lightweight, standalone image viewer specifically designed for **ComfyUI**.
+It allows you to browse your generated images and instantly view the embedded **Prompt** and **Workflow** metadata without opening the web interface.
 
-## 📸 軟體畫面 (Screenshots)
-<img width="1502" height="932" alt="1000074917" src="https://github.com/user-attachments/assets/9c307a4a-61bc-43d8-9d69-f3c59a785d02" />
+這是一款專為 **ComfyUI** 設計的輕量級、獨立圖片瀏覽器。
+無需打開網頁介面，即可瀏覽生成的圖片，並即時查看內嵌的 **提示詞 (Prompt)** 和 **工作流 (Workflow)** 資訊。
 
-## 📥 下載 (Download)
+## ✨ New in v2.7 (v2.7 新功能)
+- **Dark Mode (深色模式)**: Native dark theme (`#2C2C2C`) to match ComfyUI's aesthetics.
+  **深色主題**：採用與 ComfyUI 風格一致的原生深色主題，閱讀更舒適。
+- **Standalone Executable (獨立執行)**: Single `.exe` file. No Python required.
+  **免安裝**：單一執行檔，無需安裝 Python 環境。
+- **UI Polishing (介面優化)**: Improved layout and spacing for better readability.
+  **介面優化**：調整了版面間距與文字對比。
 
-請前往 **[Releases 頁面](../../releases)** 下載最新版本的 `.exe` 執行檔。
+## 📸 V2.7 軟體畫面 (Screenshots)
+![comfy_browser_v2_7_ScreenShot](https://github.com/user-attachments/assets/399afebe-87c3-4b9f-97be-cc1cc01f25f5)
+
+## 📥 Download (下載)
+**No installation needed! Just download and run.**
+**無需安裝！下載後直接執行即可。**
+
+👉 [**Go to Releases Page (前往下載頁面)**](https://github.com/ChMiBoBo/ComfyUI-Image-Browser/releases)
 
 ---
-*Created by ChMiBoBo*
 
-
-
+## 🛠️ Features (功能特色)
+- **Metadata Inspector**: View full Prompt (JSON/Readable) & Workflow. (完整資訊檢視)
+- **Format Support**: PNG, JPG, JPEG, WEBP. (支援主流格式)
+- **Smart Sorting**: Sort by Filename or Date. (智慧排序)
 
 ---
 
-# ComfyUI Image Browser (Standalone Version) 🚀
+## 📜 Version History (版本歷程)
 
-A lightweight image management tool designed specifically for ComfyUI users.
-No Python installation required, no need to start the ComfyUI Server. Just launch the `.exe` to browse images and read embedded Prompts & Workflow metadata instantly!
+<details>
+<summary><strong>Click to view older versions (點擊查看舊版本)</strong></summary>
 
-## ✨ Key Features
-
-* **🚀 Portable**: Completely standalone `.exe` executable. Download and run without setting up any environment.
-* **📂 Folder Browsing**: Freely select image folders to quickly preview your generated works.
-* **🔍 Metadata Reader**: Click on any image to instantly view the embedded **Prompt** and **Workflow** JSON information on the sidebar.
-* **📋 One-Click Copy**: Easily copy parameters to clipboard and paste them back into ComfyUI for recreation.
-* **🖼️ Clean Interface**: A dedicated, intuitive window for efficient image organization.
-
-## 📸 Screenshots
+### v2.6 (Legacy)
+- Light Mode UI (System default).
+- Available in Releases if you prefer a brighter UI.
+- ## 📸 V2.6 軟體畫面 (Screenshots)
 <img width="1502" height="932" alt="1000074917" src="https://github.com/user-attachments/assets/9c307a4a-61bc-43d8-9d69-f3c59a785d02" />
-## 📥 Download
+### v2.5
+- Initial release.
 
-Please visit the **[Releases Page](../../releases)** to download the latest `.exe` executable.
+</details>
 
 ---
 *Created by ChMiBoBo*

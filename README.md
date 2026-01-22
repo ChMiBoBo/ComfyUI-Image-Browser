@@ -19,12 +19,6 @@ It allows you to browse your generated images and instantly view the embedded **
 - **UI Polishing (介面優化)**: Improved layout and spacing for better readability.
   **介面優化**：調整了版面間距與文字對比。
 
-## 📥 Download (下載)
-**No installation needed! Just download and run.**
-**無需安裝！下載後直接執行即可。**
-
-👉 [**Go to Releases Page (前往下載頁面)**](https://github.com/ChMiBoBo/ComfyUI-Image-Browser/releases)
-
 ---
 
 ## 🛠️ Features (功能特色)
